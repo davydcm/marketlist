@@ -1,7 +1,3 @@
-Aqui está a versão atualizada do README, incluindo as futuras funcionalidades de cadastro de usuários e listas individuais/compartilhadas:
-
----
-
 # Market List
 
 ![License](https://img.shields.io/github/license/davydcm/marketlist)
